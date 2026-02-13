@@ -17,8 +17,7 @@ It allows users to generate secure passwords with customizable length and charac
 - Clean UI, ready to embed in other projects  
 
 ## 🚀 Demo
-
-*(Optional – if you host it later, add a link here)*  
+ 
 Example: https://360idee.de/password-generator/
 
 ## 🛠️ Tech Stack
