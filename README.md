@@ -33,8 +33,8 @@ Install dependencies:
 
 ```sh
 npm install
+```
 
 ## Credits
 
 Icons used in this project are based on [Font Awesome Free](https://fontawesome.com)
-
