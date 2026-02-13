@@ -1,29 +1,36 @@
-# password-generator
+# Vue 3 Password Generator 🔐
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple and modern password generator built with **Vue 3** and **Vite**.  
+It allows users to generate secure passwords with customizable length and character sets (uppercase, lowercase, numbers, symbols).
 
-## Recommended IDE Setup
+## ✨ Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Generate random secure passwords  
+- Choose password length (8–32 characters)  
+- Enable/disable:
+  - Uppercase letters (A–Z)
+  - Lowercase letters (a–z)
+  - Numbers (0–9)
+  - Symbols (@#$%^&*)
+- One-click copy to clipboard  
+- Estimated password strength (combinations & crack time)  
+- Clean UI, ready to embed in other projects  
 
-## Customize configuration
+## 🚀 Demo
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+*(Optional – if you host it later, add a link here)*  
+Example: https://your-demo-url.com
 
-## Project Setup
+## 🛠️ Tech Stack
+
+- Vue 3  
+- Vite  
+- JavaScript  
+- SCSS / CSS  
+
+## 📦 Project Setup
+
+Install dependencies:
 
 ```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
