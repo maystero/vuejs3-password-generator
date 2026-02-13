@@ -19,7 +19,7 @@ It allows users to generate secure passwords with customizable length and charac
 ## 🚀 Demo
 
 *(Optional – if you host it later, add a link here)*  
-Example: https://your-demo-url.com
+Example: https://360idee.de/password-generator/
 
 ## 🛠️ Tech Stack
 
